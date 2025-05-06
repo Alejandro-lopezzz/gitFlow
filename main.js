@@ -9,3 +9,7 @@ function prueba(){
 function prueba2(){
     console.log("prueba de actualización de cambios #2")
  }
+
+ function prueba3(){
+    console.log("prueba de actualización de cambios #*3")
+ }
