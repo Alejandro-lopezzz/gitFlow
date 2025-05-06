@@ -3,6 +3,7 @@ function main(nombre){
 }
 
 function prueba(){
+ 
    console.log("prueba de actualización de cambios 1")
 }
 
@@ -13,3 +14,11 @@ function prueba2(){
  function prueba3(){
     console.log("prueba de actualización de cambios #*3")
  }
+
+    console.log("prueba de actualización de cambios 1")
+}
+
+function prueba4(){
+    console.log("Esta es la prueba 3")
+}
+
