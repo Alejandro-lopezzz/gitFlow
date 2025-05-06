@@ -5,3 +5,7 @@ function main(nombre){
 function prueba(){
    console.log("prueba de actualización de cambios 1")
 }
+
+function prueba2(){
+    console.log("prueba de actualización de cambios #2")
+ }
