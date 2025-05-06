@@ -9,3 +9,7 @@ function prueba(){
 function prueba3(){
     console.log("Esta es la prueba 3")
 }
+
+function otraPrueba(){
+    console.log("Última prueba")
+}
